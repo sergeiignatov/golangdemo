@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367735563431",
+    "project_id": "golangdemo-3c4a4",
+    "storage_bucket": "golangdemo-3c4a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367735563431:android:29d19170e3d94813ffe782",
+        "android_client_info": {
+          "package_name": "com.example.golangdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367735563431-rigvqulipkt17pj6cgv0b0vkq2l6kggf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwqPecPYBaJGuYl1XiPDpv9BR3qBfCt-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367735563431-rigvqulipkt17pj6cgv0b0vkq2l6kggf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
